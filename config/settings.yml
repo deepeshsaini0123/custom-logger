@@ -1,0 +1,6 @@
+custom_logger:
+  custom_logger_enabled:
+    default: true
+    client: true
+    type: boolean
+    description: "Enable custom logging for Rails logs."

@@ -1,0 +1,9 @@
+en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          custom_logger: "Custom Logger"
+  js:
+    custom_logger:
+      placeholder: placeholder
